@@ -1,5 +1,4 @@
-# sirGillSocial
-Ecommerce Music Store created using Java, Spring Framwork and Hibernate
+# Ecommerce Music Store created using Java, Spring Framwork and Hibernate
 Features include:
 -User signup
 -Adding items to cart
