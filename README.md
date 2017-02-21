@@ -8,8 +8,9 @@ eCommerce Music Store that allows users to register as consumers  and shop for d
 * [Hibernate](http://hibernate.org/orm/documentation) - Persistent Data
 * [Java H2](http://www.h2database.com/html/main.html) - Database
 
-## Contributing
+## Contributing 
 Use your ceativity to add new features or update old ones :)
+
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
