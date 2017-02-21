@@ -1,5 +1,5 @@
 # Music Store 
-eCommerce Music Store that allows users to register as consumers  and shop for different products which may include Albums, Insturments, and Singles. Consumers are allowed to checkout, update, edit, and delete products in their carts. Futher consumers are able to use a billing and shipping feature which records their shipping address and prints a receipt. Admins are able to update, delete, edit, and add products to the store. 
+eCommerce Music Store that allows users to register as consumers  and shop for different products which may include Albums, Insturments, and Singles. Consumers are allowed to add, update, edit, delete, and checkout products in their carts. Futher consumers are able to use a billing and shipping feature which records their shipping address and prints a receipt. Admins are able to update, delete, edit, and add products to the store. 
 
 ## Built With
 
